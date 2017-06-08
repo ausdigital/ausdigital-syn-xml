@@ -1,6 +1,6 @@
 ---
 title: "AusDigital UBL Syntax (SYN) 1.0 Specification"
-specID: "ausdigital-syn/1"
+specID: "ausdigital-syn-xml/1"
 status: "![raw](http://rfc.unprotocols.org/spec:2/COSS/raw.svg)"
 editors: "Digital Business Council (Council)"
 contributors: 
