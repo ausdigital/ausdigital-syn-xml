@@ -21,7 +21,7 @@ The eInvoicing Semantic Model has been defined and elaborated in a consultative 
 
 [Ausdigital eInvoice Semantic Model](https://github.com/ausdigital/ausdigital-bill/blob/master/docs/1.0/eInvoicing_Semantic_Model_v1.0.pdf)
 
-[Ausdigital eInvoice Implementation Guide](https://github.com/ausdigital/ausdigital-syn/blob/master/docs/1.0/eInvoicing_Implementation_Guide_v1.0.pdf) 
+[Ausdigital eInvoice Implementation Guide](https://github.com/ausdigital/ausdigital-syn-xml/blob/master/docs/1.0/eInvoicing_Implementation_Guide_v1.0.pdf) 
 
 The XML instances MUST comply with the [UBL 2.1 Specification](http://docs.oasis-open.org/ubl/UBL-2.1.html).
 
@@ -307,8 +307,5 @@ All validation rules are tagged with the relevant customizationID(s) and profile
 
 # Related Material
 
- * AusDigital eInvoicing Implementation Guide (v1.0, available [here](https://github.com/ausdigital/ausdigital-syn/blob/master/docs/1.0/eInvoicing_Implementation_Guide_v1.0.pdf)), which provides background to the [AusDigital](http://ausdigital.org) community process.
- * [GitHub issues](https://github.com/ausdigital/ausdigital-syn/issues/) for collaborating on the development of the SYN.
- * A reference [SYN service](https://syn.testpoint.io/) (for testing and development purposes).
- * Free, Open-Source Software [SYN implementation](https://github.com/test-point/testpoint-syn).
- * An automated [SYN test suite](https://github.com/test-point/testpoint-syn).
+ * AusDigital eInvoicing Implementation Guide (v1.0, available [here](https://github.com/ausdigital/ausdigital-syn-xml/blob/master/docs/1.0/eInvoicing_Implementation_Guide_v1.0.pdf)), which provides background to the [AusDigital](http://ausdigital.org) community process.
+ * [GitHub issues](https://github.com/ausdigital/ausdigital-syn-xml/issues/) for collaborating on the development of the SYN-XML.
